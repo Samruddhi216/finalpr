@@ -1,4 +1,4 @@
-ame: Commit Timestamp
+name: Commit Timestamp
 
 on:
   push:
