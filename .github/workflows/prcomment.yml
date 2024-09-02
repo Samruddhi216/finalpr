@@ -1,4 +1,4 @@
-name: Commit Timestamp
+name: Commit Timestamp on pr
 
 on:
   push:
